@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 halo dunia diubah virgy dibuah lagi di branch virgy-branch dibuah lagi abis bikin ruleset
+=======
+halo dunia diubah virgy dibuah lagi di branch virgy-branch
+>>>>>>> e60fad524ca07b8a7f18bd23092c7b7bdafc9903
